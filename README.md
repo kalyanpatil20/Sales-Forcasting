@@ -32,7 +32,7 @@ Tech Stack
 
  Visualization
 
-### Sales Forecast
+### Sales Forecast using Time-Series analysis
 ![Sales Forecast](images/sales_forecast.png)
 
 
