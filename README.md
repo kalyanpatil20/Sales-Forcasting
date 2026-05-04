@@ -33,7 +33,7 @@ Tech Stack
  Visualization
 
 ### Sales Forecast
-![Sales Forecast](Notebooks/images/sales_forecast.png)
+![Sales Forecast](images/sales_forecast.png)
 
 
  Insights
